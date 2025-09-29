@@ -4,12 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on **an NLP project**  
-- 👯 I’m looking to collaborate on **Data Science & AI Projects**  
-- 💬 Ask me about **AI/ML, Data Science, Machine Learning Models, Python, Data Visualization, and Model Deployment! 🚀📊**  
-- 📫 Reach me at **devanshsaroja@gmail.com**  
-- ⚡ Fun fact: **I turn data into insights just like a chef turns ingredients into a masterpiece—except my recipes involve AI, Machine Learning, and a lot of Python! 🧑‍💻📊🚀**  
-
+🔭 I’m currently working on enhancing my skills in Data Analytics
+👯 I’m looking to collaborate on Data Science, Business Analytics & AI/ML Projects
+💬 Ask me about SQL, Python, Excel, Power BI, Data Visualization, AI/ML, and Model Deployment! 🚀📊
+📫 Reach me at devanshsaroja@gmail.com
+⚡ Fun fact: I turn raw data into insights just like a chef turns ingredients into a masterpiece—but my recipes involve SQL, Python, Excel, Power BI, and a dash of AI/ML magic! 🧑‍💻📊🚀
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
